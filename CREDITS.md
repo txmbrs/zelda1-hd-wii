@@ -1,5 +1,7 @@
 # Credits
 
+The HD project adapted here is **[Zelda Remastered V1.3](https://www.romhacking.net/forum/index.php?topic=31559.0)**, originally made for Mesen. Its contributors created the HD pack, not the Loz engine. The current Wii adaptation combines these separate projects; their credits and licenses remain distinct.
+
 - **Aldo J. Nunez** — original Loz engine and extraction tools, Copyright 2016, Apache 2.0. Upstream: https://github.com/aldonunez/Loz (pre-Wii reference revision `945067f`).
 - **txmbrs and contributors** — Wii adaptation, SDL2/GX integration, HD asset preparation, display/HUD and input work, 2026. Modified upstream files are marked; original copyright notices remain.
 - **Zelda Remastered V1.3 contributors** — HD pack used as a separate, user-supplied input. The original readme credits KYA, Sour, ShadowOne333, Snarfblam, Paul Veer, Nintendo and additional artists/musicians. The complete original credits and terms must remain with the user's pack and are copied to `HD-PACK-LICENSE.txt` during asset preparation. We do not claim authorship of their assets.

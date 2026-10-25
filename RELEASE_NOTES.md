@@ -1,4 +1,6 @@
-Unofficial experimental Wii port based on Loz by Aldo J. Nunez.
+Unofficial experimental Wii adaptation of Zelda Remastered V1.3, the HD pack originally made for Mesen: https://www.romhacking.net/forum/index.php?topic=31559.0
+
+The remaster is the source of the HD presentation and pack rules. The current native Wii implementation uses Loz by Aldo J. Nunez as its engine foundation; Loz is not the HD remaster itself.
 
 Download `boot.dol` and follow the repository README to prepare SD data from your own unmodified PRG0 ROM and the original Zelda Remastered V1.3 pack. The executable alone is not a complete game. No ROM, extracted game data, HD artwork or audio is distributed here.
 

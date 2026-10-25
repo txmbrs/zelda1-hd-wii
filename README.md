@@ -1,6 +1,8 @@
-# Zelda 1 HD Wii — unofficial alpha
+# Zelda Remastered for Wii — unofficial alpha
 
-A native Wii homebrew port of [Loz by Aldo J. Nunez](https://github.com/aldonunez/Loz), with a Wii SDL2/GX backend and support for selected rules and assets from Zelda Remastered V1.3.
+An unofficial Wii adaptation of **[Zelda Remastered V1.3](https://www.romhacking.net/forum/index.php?topic=31559.0)**, the HD pack originally made for Mesen. Zelda Remastered supplies the replacement graphics, animation rules, music and sound used by this project; users prepare those assets locally from the original pack.
+
+For native Wii execution, the current implementation uses the C++ engine and extraction tools from [Loz by Aldo J. Nunez](https://github.com/aldonunez/Loz), with a Wii SDL2/GX backend. Loz is the engine foundation, not the HD remaster. This is not a port of Mesen or a complete implementation of the remaster's IPS patches and rules.
 
 **This is an experimental alpha, not a completed or fully faithful replacement for the original Mesen HD pack.** It is not affiliated with or endorsed by Nintendo. This repository does not include a ROM, extracted game data, HD artwork or audio.
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app version="1">
+  <name>Zelda 1 HD Wii (alpha)</name>
+  <coder>txmbrs; based on Loz by Aldo J. Nunez</coder>
+  <version>0.1.0-alpha</version>
+  <release_date>20261025000000</release_date>
+  <short_description>Unofficial native Wii port</short_description>
+  <long_description>Unofficial alpha based on Loz. Requires data extracted locally from a supported user-supplied ROM and Zelda Remastered V1.3 HD pack. No ROM, artwork or music is included. See the repository README for setup and known limitations. HOME exits.</long_description>
+</app>

@@ -85,6 +85,3 @@ Please report the room/location, quest, build version, controller and Wii/Dolphi
 
 See [CREDITS.md](CREDITS.md) and [THIRD_PARTY.md](THIRD_PARTY.md). Code under the upstream Loz license is Apache 2.0; the original notices are preserved. This does not license Nintendo content or the HD pack's artwork/music. The pack has separate terms and credits, retained with local generated assets. Distribution without those assets does not imply Nintendo approval or a guarantee against rights-holder claims.
 
-## Po polsku
-
-Pobierz kod i `boot.dol` z Releases. Uruchom powyższe polecenia na Windowsie, podając własny ROM PRG0 i oryginalny pack V1.3. Skopiuj wygenerowany folder na `SD:/apps/zelda1hd`. Repozytorium nie zawiera ROM-u, grafik ani muzyki. To wersja alfa; problem płynności w jaskiniach wymaga jeszcze potwierdzenia na Wii.
